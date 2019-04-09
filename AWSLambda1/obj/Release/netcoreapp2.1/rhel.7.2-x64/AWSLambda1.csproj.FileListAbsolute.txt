@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.AssemblyInfo.cs
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.deps.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.runtimeconfig.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.dll
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.pdb
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.dll
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.pdb

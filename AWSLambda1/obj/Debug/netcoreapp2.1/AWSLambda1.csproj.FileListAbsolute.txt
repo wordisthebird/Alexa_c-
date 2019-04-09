@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.deps.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.runtimeconfig.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.dll
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.AssemblyInfo.cs
